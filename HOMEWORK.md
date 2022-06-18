@@ -30,6 +30,6 @@
 ![pic04](https://github.com/arhipovea/ansible-role-nginx/blob/master/assets/pic04.png)
 
 7. Проверить работоспособность, исправить ошибки, исправленный Pipeline вложить в репозиторий в файл `ScriptedJenkinsfile`.
-8. Отправить ссылку на репозиторий с ролью и Declarative Pipeline и Scripted Pipeline.
+8. Отправить ссылку на репозиторий с [ролью](https://github.com/arhipovea/ansible-role-nginx) и [Declarative Pipeline](https://github.com/arhipovea/ansible-role-nginx/blob/master/Jenkinsfile) и [Scripted Pipeline](https://github.com/arhipovea/ansible-role-nginx/blob/master/ScriptedJenkinsfile).
 
 ---
